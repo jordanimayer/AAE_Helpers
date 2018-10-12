@@ -14,14 +14,14 @@
 %   q_ddot: [y_ddot, theta1_ddot, theta2_ddot]
 %%%%%
 
-function q_ddot = get_q_ddot_double_pendulum(m, l, u, q, q_dot)
+function q_ddot = get_q_ddot_double_pendulum(m, len, u, q, q_dot)
 g = 1;  % constant defined in problem
 % extract inputs for easier readability
 m0 = m(1);
 m1 = m(2);
 m2 = m(3);
-len1 = l(1);
-len2 = l(2);
+len1 = len(1);
+len2 = len(2);
 y = q(1);
 y_dot = q_dot(1);
 theta1 = q(2);
