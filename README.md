@@ -20,9 +20,15 @@ A collection of various MATLAB and Python scripts used to help out with Aerospac
 
 **AAE 364** - Control Systems Analysis
 
+**AAE 364L** - Control Systems Lab
+
 **AAE 532** - Orbit Mechanics
 
 **AAE 564** - System Analysis and Synthesis
+
+**AAE 590SAD** - Spacecraft Attitude Dynamics
+
+**AAE 590SFO** - Space Flight Operations
 
 **MA 266** - Ordinary Differential Equations
 
